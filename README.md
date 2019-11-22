@@ -1,1 +1,8 @@
-# Project_Test_How_2_USE_Github
+### 使用Markdown编辑数学公式
+
+
+
+$Y_1$
+
+$ \alpha $
+
