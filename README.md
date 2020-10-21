@@ -2,4 +2,6 @@
 
 The primary test of programming! 
 
+The AC of mine.
+
 PAT 习题链接 https://pintia.cn/problem-sets/994805260223102976/problems/type/7
